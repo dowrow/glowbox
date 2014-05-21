@@ -1,0 +1,11 @@
+#canvas {
+    position: relative;
+    margin-top: 100px;
+    left:50%;
+    margin-left: -480px;
+}
+            
+menu {
+    position: relative;
+    margin-top:50px;
+}
